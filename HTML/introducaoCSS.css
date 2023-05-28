@@ -1,0 +1,45 @@
+body{
+    background-color:#e9a6a6;
+}
+h1{
+    color:red;
+    font-fmily:Arial, Helvetica, sans-serif;
+    font-size:54px;
+}
+
+h2 {
+    font-size: 48px;
+    font-style:italic;
+    font-weight: normal;
+}
+
+h3{
+    font-size: 38px;
+    text-transform:capitalize;
+    text-align:center;
+    text-decoration: underline;
+    background-color: cyan;
+}
+
+p{
+    text-indent: 28px;
+    font-size:28px;
+    text-align: left;
+    color:#0000ff;
+    font-variant: small-caps;
+   
+}
+
+a{
+    text-decoration: none;
+    font-variant: normal;
+}
+
+.destaque {
+    color:#0000ff;
+    font-weight: bold;
+}
+
+#destaque {
+    color:rgb(168, 125, 44);
+}
